@@ -182,14 +182,12 @@
           <h4>Contact Us</h4>
           <p>
            <strong>Address:</strong>
-            202, Pristine Towers, <br>
-            Kasarvadavli, Ghodbunder Road <br>
-            Thane West, 400615 <br>
+            2nd Floor, Royal House, <br>
+            Near G P Pradhan Garden, BhosaleNagar <br>
+            Hadapsar,Pune, 411028 <br>
             Maharashtra, India <br><br>
-            <strong>Phone:</strong> +91 970216-8576<br>
-            <strong>Email:</strong> kumar@stuffbits.in <br><br>
-            <strong>Phone:</strong> +91 970236-4041<br>
-            <strong>Email:</strong> nasreen.stuffbits@gmail.com <br>
+            <strong>Phone:</strong> +91 762027-4757<br>
+            <strong>Email:</strong> contact@stuffbits.in <br><br>
           </p>
 
           <div class="social-links">
